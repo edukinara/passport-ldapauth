@@ -33,7 +33,7 @@
   "dependencies": {
     "@types/node": "^10.12.12",
     "@types/passport": "^0.4.7",
-    "ldapauth-fork": "^4.1.0",
+    "ldapauth-fork": "github:edukinara/node-ldapauth-fork#support_node_10",
     "passport-strategy": "^1.0.0"
   },
   "devDependencies": {
@@ -46,7 +46,7 @@
     "chai": "^4.2.0",
     "eslint": "^5.9.0",
     "express": "^4.16.4",
-    "ldapjs": "^1.0.1",
+    "ldapjs": "github:edukinara/node-ldapjs#support_node_10",
     "mocha": "^5.2.0",
     "passport": "^0.4.0",
     "supertest": "^3.0.0",
